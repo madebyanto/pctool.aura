@@ -7,6 +7,10 @@ Programmato in Visual Basic, Aura Computer Management è un programma 100% gratu
 Il tool offre svariate opzioni per gestire e controllare il tuo pc, tra qui:
 
 -Monitoraggio RAM e CPU
+
 -Informazioni PC
+
 -Wiki
+
 -Much more
+
