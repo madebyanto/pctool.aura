@@ -10,7 +10,5 @@ Il tool offre svariate opzioni per gestire e controllare il tuo pc, tra qui:
 
 -Informazioni PC
 
--Wiki
-
 -Much more
 
